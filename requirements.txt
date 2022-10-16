@@ -1,0 +1,6 @@
+Django==4.1.1
+django-neomodel==0.0.7
+neo4j-driver==4.3.1
+neomodel==4.0.4
+graphene-django==3.0.0
+django-environ==0.9.0
